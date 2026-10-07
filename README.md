@@ -18,7 +18,11 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab03](./lab03) | CNN Architecture | 3 |
 | [lab04](./lab04) | RNN & LSTM Architecture | 4 |
 | [lab05](./lab05) | Optimization Algorithms | 5 |
-<!-- | [lab06](./lab06) | Optimization Algorithms (cont.)| 6 | -->
+| [lab06](./lab06) | Optimization Algorithms (cont.)| 6 |
+<!-- | [lab07](./lab07) | Topic| 7 | -->
+
+
+
 
 Each lab folder contains everything that lab needs. Download the **whole folder**, not just the notebook.
   
