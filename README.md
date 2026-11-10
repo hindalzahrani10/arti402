@@ -19,8 +19,13 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab04](./lab04) | RNN & LSTM Architecture | 4 |
 | [lab05](./lab05) | Optimization Algorithms | 5 |
 | [lab06](./lab06) | Optimization Algorithms (cont.)| 6 |
-<!-- | [lab07](./lab07) | Topic| 7 | -->
-
+| [lab07](./lab07) | TensorFlow and Keras | 7 |
+| [lab08](./lab08) | PyTorch | 8 |
+| [lab09](./lab09) | Autoencoders | 9 |
+| [lab10](./lab10) | Attention | 10 |
+<!-- | [lab11](./lab11) | Variational Autoencoders and GANs | 11 | -->
+<!-- | [lab12](./lab12) | Ethics and Bias | 12 | -->
+<!-- | [lab13](./lab13) | Reinforcement Learning | 13 | -->
 
 
 
